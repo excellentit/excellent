@@ -1,0 +1,36 @@
+.check {
+  font-family: "Font Awesome 6";
+  font-size: 30px;
+  color: green;
+ 
+  text-align: center;
+}
+
+.bullet {
+  font-family: "Font Awesome 6";
+  font-size: 16px;
+  color: black;
+}
+
+table {
+  width: 100%;
+  border: none;
+  border-collapse: collapse;
+}
+
+tr.header {
+  background-color: #000000;
+  font-weight: bold;
+  color:#ccc;
+}
+
+td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+td.syl {
+  font-family: "Font Awesome 6";
+  font-size: 20px;
+  color: rgb(73, 0, 245);
+}
