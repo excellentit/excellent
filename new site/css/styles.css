@@ -2171,7 +2171,7 @@ h1 {
 /*   text-shadow: 0 0 5px #f562ff, 0 0 15px #f562ff, 0 0 25px #f562ff,
     0 0 20px #f562ff, 0 0 30px #890092, 0 0 80px #890092, 0 0 80px #890092;
   color: #fccaff; */
-  text-shadow: 0 0 5% #ffa500, 0 0 15% #ffa500, 0 0 20% #ffa500, 0 0 40% #ffa500, 0 0 60% #ff0000, 0 0 10% #ff8d00, 0 0 98% #ff0000;
+  text-shadow: 0 0 10% #ffa500, 0 0 30% #ffa500, 0 0 40% #ffa500, 0 0 80% #ffa500, 0 0 120% #ff0000, 0 0 20% #ff8d00, 0 0 98% #ff0000;
     color: #fff6a9;
   font-family: "Sacramento", cursive;
   text-align: center;
